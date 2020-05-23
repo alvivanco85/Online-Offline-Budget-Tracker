@@ -33,4 +33,4 @@ Open up the root directory in your terminal. "Npm i" to install packages.
 * Github Repo - https://github.com/alvivanco85/Online-Offline-Budget-Tracker
 
 ## Images
-
+file: ![App is working GIF](https://github.com/alvivanco85/Online-Offline-Budget-Tracker/blob/master/appworking.gif)
