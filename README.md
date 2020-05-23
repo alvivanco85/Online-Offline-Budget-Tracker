@@ -24,7 +24,7 @@ This app uses Express, Mongoose, Compression and Morgan.
 
 ## Installation
 
-Open up the root directory in your terminal. "Npm i" to install packages. 
+Open up the root directory in your terminal. "Npm i" to install packages. Go to root directroy and open in terminal, run "node index.js". Open a broweser and type in http://localhost//3000.
 
 ## Contributors
 * Aldo Vibanco - https://github.com/alvivanco85
