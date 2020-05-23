@@ -19,7 +19,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Usage
 
-This app uses a Mongo database, Mongoose shcema and Express. 
+This app uses Express, Mongoose, Compression and Morgan.
 
 ## Installation
 
