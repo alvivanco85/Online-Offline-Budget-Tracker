@@ -1,4 +1,5 @@
 body {
+  background-color: rgb(167, 166, 166);
   font-size: 120%;
   font-family: Arial;
 }
@@ -35,6 +36,7 @@ tr:nth-child(even) {
 .total {
   font-size: 150%;
   text-decoration: underline;
+  color: whitesmoke;
 }
 
 .form {

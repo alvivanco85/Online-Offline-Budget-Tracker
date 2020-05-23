@@ -3,10 +3,6 @@ const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
 
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb: //localhost/mongoHeadlines"
-
-mongoose.connect(MONGODB_URI);
-
 const PORT = 3000;
 
 const app = express();
